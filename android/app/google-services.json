@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "460966470974",
+    "project_id": "tumu-2ffbe",
+    "storage_bucket": "tumu-2ffbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460966470974:android:24d339abbd32fc33c4b86f",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460966470974-n00dedsnuq54o95j7tqs6kj8j66023k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBunvnAHZRpiGrJd4FKiu_CG4-N8M4I4xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460966470974-n00dedsnuq54o95j7tqs6kj8j66023k7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460966470974-127pqhvs059hqa6eq10f1j6qkouc9leg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.homeU"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
